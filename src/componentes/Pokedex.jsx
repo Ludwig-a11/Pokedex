@@ -42,7 +42,7 @@ const Pokedex = () => {
         <div>
             
             
-            <h2>Welcome: {nameTrainer}, Catch them all.</h2>
+            <h2 className='user-name'>Welcome: {nameTrainer}, Catch them all.</h2>
             <SearchInput setPokeSearch={setPokeSearch}/>
             <div className='cards-container'>
                 {

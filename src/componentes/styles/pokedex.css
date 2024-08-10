@@ -1,11 +1,18 @@
 .cards-container{
+  /*border: 1px solid #000;*/
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 60px 20px;
   padding-bottom: 100px;
+  margin: 2%;
 }
 
 .pokedex-logo {
   width: 30%;
+}
+
+.user-name{
+  font-size: larger;
+  margin-left: 1%;
 }

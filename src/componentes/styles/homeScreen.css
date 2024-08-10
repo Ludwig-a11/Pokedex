@@ -61,9 +61,9 @@
   padding: .5rem;
   outline: none;
   border: none;
-  border-radius: .25rem;
+  border-radius: .35rem;
   font-weight: lighter;
-  box-shadow: 1px 1px 1px 1px ;
+  box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.2);
 
 }
 
